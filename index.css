@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+}
+.fa{
+    color:rgb(80, 80, 191)
+}
+.box-part{
+    background-color: white;
+    padding: 40px 5px;
+    margin: 30px 0px;
+}
+span{
+    font-size: 14px;
+}
+.text{
+    margin: 20px 0px;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+.box{
+    padding: 60px 0px;
+}
